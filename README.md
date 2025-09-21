@@ -17,6 +17,24 @@ This system provides APIs for event management on the backend and a responsive f
 ---
 
 ## 📂 Folder Structure
+mini-event-management-system/
+│
+├── backend/ # Backend API built with Express
+│ ├── controllers/ # Event & attendee controllers
+│ ├── models/ # Database models
+│ ├── routes/ # API routes
+│ ├── config/ # Database / environment config
+│ └── server.js # Entry point for backend
+│
+├── event-management/ # Frontend (Next.js / React based)
+│ ├── app/ # Pages and components
+│ ├── components/ # UI components
+│ └── package.json
+│
+├── .gitignore
+├── .editorconfig
+├── .gitattributes
+└── README.md
 
 
 ---
