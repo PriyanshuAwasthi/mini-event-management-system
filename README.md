@@ -1,1 +1,0 @@
-# mini-event-management-system
