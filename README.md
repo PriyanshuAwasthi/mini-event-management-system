@@ -17,6 +17,7 @@ This system provides APIs for event management on the backend and a responsive f
 ---
 
 ## 📂 Folder Structure
+$tree
 mini-event-management-system/
 │
 ├── backend/ # Backend API built with Express
